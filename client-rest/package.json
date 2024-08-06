@@ -21,7 +21,7 @@
     "@angular/platform-browser-dynamic": "11.2.14",
     "@angular/router": "11.2.14",
     "foundation-sites": "^6.4.4-rc1",
-    "jose-jwe-jws": "^0.1.6",
+    "jose-jwe-jws": "^0.2.2",
     "rxjs": "^6.5.3",
     "rxjs-compat": "^6.5.3",
     "zone.js": "0.11.6"
